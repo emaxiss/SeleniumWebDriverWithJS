@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="41cf802d-7929-4b6a-afe2-94c3007729e2" name="Default Changelist" comment="" />
+    <list default="true" id="41cf802d-7929-4b6a-afe2-94c3007729e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +35,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iQ4lnMgYZ1NkFO4mtuCCq1H9E8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -43,37 +69,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601826634699</updated>
-      <workItem from="1601826636063" duration="8975000" />
+      <workItem from="1601826636063" duration="10273000" />
+      <workItem from="1601956732695" duration="755000" />
+      <workItem from="1602040315514" duration="40000" />
+      <workItem from="1603338710575" duration="213000" />
+      <workItem from="1603583101065" duration="191000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="422" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601832068187">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="422" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1601832068187" />
-    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1601830773732">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1602040351188">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1601830773732" />
-    <state width="692" height="73" key="GridCell.Tab.0.bottom" timestamp="1601836842071">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602040351188" />
+    <state width="1345" height="252" key="GridCell.Tab.0.bottom" timestamp="1603338923999">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="692" height="73" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1601836842071" />
-    <state width="692" height="73" key="GridCell.Tab.0.center" timestamp="1601836842071">
+    <state width="1345" height="252" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1603338923999" />
+    <state width="1345" height="252" key="GridCell.Tab.0.center" timestamp="1603338923998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="692" height="73" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1601836842071" />
-    <state width="692" height="73" key="GridCell.Tab.0.left" timestamp="1601836842070">
+    <state width="1345" height="252" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1603338923998" />
+    <state width="1345" height="252" key="GridCell.Tab.0.left" timestamp="1603338923998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="692" height="73" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1601836842070" />
-    <state width="692" height="73" key="GridCell.Tab.0.right" timestamp="1601836842071">
+    <state width="1345" height="252" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1603338923998" />
+    <state width="1345" height="252" key="GridCell.Tab.0.right" timestamp="1603338923998">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="692" height="73" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1601836842071" />
+    <state width="1345" height="252" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1603338923998" />
   </component>
 </project>
