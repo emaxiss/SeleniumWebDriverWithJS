@@ -18,6 +18,7 @@ const By = webDriver.By;
         console.log(text);
         console.log('_______________________');
     }
+
     driver.close();
 })();
 

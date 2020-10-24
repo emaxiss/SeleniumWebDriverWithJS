@@ -1,6 +1,6 @@
 node_modules
 .git
-.idea
+.idea/
 chromedriver.exe
 chromedriver_win32.zip
 .gitignore
